@@ -2,4 +2,4 @@
 
 # contacto
 - Alumno de computacion y robotica en el I.E.S. José de mora
-- Me gustan los gatos
+- Me gustan los gatos.
